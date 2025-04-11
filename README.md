@@ -98,3 +98,4 @@ Include more detailed metrics like air pressure and visibility.
 Allow users to toggle between metric (m/s) and imperial (mph) units for wind speed.
 License
 This project is written by Lawrence Akinro and is permitted for educational purposes.# weatherapp
+# weatherapp

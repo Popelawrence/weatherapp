@@ -1,0 +1,41 @@
+.root {
+    font-family: 'Arial';
+    -fx-font-family: 'Arial';
+    padding: 20px;
+    -fx-padding: 20;
+    background-color: #f0f0f0;
+    -fx-background-color: #f0f0f0;
+}
+
+.text-field {
+    -fx-pref-width: 200;
+}
+
+.button {
+    -fx-pref-width: 200;
+    background-color: #007bff;
+    -fx-background-color: #007bff;
+    -fx-text-fill: white;
+}
+
+.label {
+    font-size: 14px;
+    -fx-font-size: 14;
+    -fx-text-fill: #333;
+}
+
+#historyLabel {
+    font-size: 12px;
+    -fx-font-size: 12;
+    -fx-text-fill: gray;
+}
+
+#forecastBox {
+    background-color: #e0e0e0;
+    -fx-background-color: #e0e0e0;
+    padding: 10px;
+    -fx-padding: 10;
+    border-radius: 5;
+    -fx-border-radius: 5;
+    -fx-background-radius: 5;
+}

@@ -1,0 +1,27 @@
+src/main/java/com/weatherapp/Config.java
+
+target
+# Ignore configuration files containing sensitive information
+config.properties
+
+# Ignore IDE-specific files
+.idea/
+*.iml
+
+# Ignore build files and directories
+target/
+build/
+
+# Ignore JavaFX SDK
+javafx-sdk/
+
+# Ignore logs
+*.log
+
+# Ignore temporary files
+*.tmp
+*.swp
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
